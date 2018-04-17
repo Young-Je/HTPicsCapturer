@@ -7,19 +7,6 @@
 <br />
 <br />
 
-## Features
-- Extremely simple and easy to use
-- Controls autofocus & exposure
-- Customizable interface
-- Code-made UI assets that do not lose resolution quality & resize dynamically depending on the screen size of the device.
-- Added animations to the UI elements for a more intuitive and responsive feel.
-- Overlays over any presented view controller or view
-- Made for iPhone & iPad
-
-## Installation
-* Include the `AVFoundation.Framework` library in your project, click on your project's target, navigate to Build Phases, then go to Link Binary With Libraries, click on the + and add the AVFoundation.Framework.
-* Browse to the directory of the demo app and drag the `CustomizableCamera` folder into your Xcode project.
-* import `"CameraSessionView.h"` to the view controller that will invoke the camera.
 
 ## Usage 
 
@@ -88,28 +75,6 @@ You can find a full example on usage and customization on the Xcode project atta
 
 ## Contributor
 
-* Christopher Cohen
+HT YoungJe Xu
 
-## License
 
-The MIT License (MIT)
-
-**Copyright (c) 2015 Gabriel Alvarado (gabrielle.alva@gmail.com)**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
