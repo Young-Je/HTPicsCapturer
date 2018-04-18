@@ -28,6 +28,8 @@
 	<string>camera will be on..</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Photos is used..</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>photos</string>
 	<key>UILaunchStoryboardName</key>
 	<string>Launch Screen</string>
 	<key>UIMainStoryboardFile</key>
