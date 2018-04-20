@@ -30,6 +30,8 @@
 	<string>Photos is used..</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>photos</string>
+	<key>UIFileSharingEnabled</key>
+	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>Launch Screen</string>
 	<key>UIMainStoryboardFile</key>

@@ -16,7 +16,7 @@
 - (id)init {
     if ((self = [super init])) {
         [self setCaptureSession:[[AVCaptureSession alloc] init]];
-        _captureSession.sessionPreset = AVCaptureSessionPresetHigh;
+        _captureSession.sessionPreset = AVCaptureSessionPresetMedium;
     }
     return self;
 }
